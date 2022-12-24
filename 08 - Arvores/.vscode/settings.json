@@ -1,0 +1,10 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "debug.terminal.clearBeforeReusing": true,
+    "terminal.integrated.allowMnemonics": true,
+    "python.terminal.executeInFileDir": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
